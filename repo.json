@@ -1,7 +1,7 @@
 {
   "name": "VNXX.APP - JAV Vietsub FullHD",
   "description": "JAV Plugin For BongNgoTV",
-  "manifestVersion": 18,
+  "manifestVersion": 19,
   "pluginLists": [
     "https://raw.githubusercontent.com/cinehubwork/build-plugin18/main/plugins.json"
   ]
